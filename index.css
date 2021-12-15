@@ -1,0 +1,14 @@
+body {
+    color: rgb(187, 187, 187);
+    background-color: rgb(15, 12, 10);
+    height: 100%;
+}
+
+#root{
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    font-size: larger;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    letter-spacing: 1px;
+}
